@@ -1,0 +1,6 @@
+org\iryna97\lesson2\controller\CurrencyController.class
+org\iryna97\lesson2\model\Model.class
+org\iryna97\lesson2\config\AppConfig.class
+org\iryna97\lesson2\controller\CurrencyControllerImpl.class
+org\iryna97\lesson2\model\MainClass.class
+org\iryna97\lesson2\service\CurrencyService.class
